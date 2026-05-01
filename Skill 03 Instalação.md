@@ -119,4 +119,21 @@ Seguir padrão da skill principal:
 
 - Consultar agenda  
 - Oferecer horários disponíveis  
-- Confirmar com cliente  
+- Confirmar com cliente
+
+---
+
+## 🔹 CONFIRMAÇÃO FINAL
+
+✅ Agendamento confirmado!  
+
+📅 Data: {data}  
+⏰ Horário: {hora}  
+
+🔧 Serviço: instalação  de {equipamento}  
+📍 Endereço: {endereço}  
+📌 CEP: {cep}  
+
+💰 Valor: R$ {valor}  
+
+Nossa equipe estará no local no horário marcado 👍
