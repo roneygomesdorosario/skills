@@ -52,7 +52,7 @@ Para dar sequência no atendimento, preciso de:
 
 ## 🔹 VALIDAÇÃO DE CEP
 
-👉 Só avança com CEP  
+👉 Só avança com CEP e  Endereço completo
 
 Se não tiver:
 
