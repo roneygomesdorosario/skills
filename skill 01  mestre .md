@@ -284,7 +284,7 @@ Para dar sequência:
 
 ⚠️ Regra crítica:
 
-Sem CEP → NÃO AVANÇA  
+Sem CEP e Endereço completo → NÃO AVANÇA  
 
 Mensagem:  
 “Sem o CEP não consigo avançar no atendimento. Pode me informar?”
